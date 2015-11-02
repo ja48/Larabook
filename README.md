@@ -1,4 +1,4 @@
-BELANGRIJK:
+test BELANGRIJK:
 ## NA HET CLONEN DE “GITIGNORE” FILE UNZIPPEN!!!
 ================================================
 
